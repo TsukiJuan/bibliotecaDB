@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "641e7d9d14c0b9d8e947fa0b"
+  },
+  "title": "Cien años de soledad",
+  "authors": [
+    "Gabriel García Márquez"
+  ],
+  "genres": [
+    "Ficción",
+    "Realismo Mágico"
+  ],
+  "available_copies": 5,
+  "total_copies": 5,
+  "publication_year": 1967
+},
+{
+  "_id": {
+    "$oid": "641e7d9d14c0b9d8e947fa0c"
+  },
+  "title": "1984",
+  "authors": [
+    "George Orwell"
+  ],
+  "genres": [
+    "Ficción",
+    "Dystopía"
+  ],
+  "available_copies": 3,
+  "total_copies": 3,
+  "publication_year": 1949
+},
+{
+  "_id": {
+    "$oid": "641e7d9d14c0b9d8e947fa0d"
+  },
+  "title": "El origen de las especies",
+  "authors": [
+    "Charles Darwin"
+  ],
+  "genres": [
+    "Ciencia"
+  ],
+  "available_copies": 4,
+  "total_copies": 4,
+  "publication_year": 1859
+},
+{
+  "_id": {
+    "$oid": "641e7d9d14c0b9d8e947fa0f"
+  },
+  "title": "Sapiens: De animales a dioses",
+  "authors": [
+    "Yuval Noah Harari"
+  ],
+  "genres": [
+    "No Ficción",
+    "Historia"
+  ],
+  "available_copies": 6,
+  "total_copies": 6,
+  "publication_year": 2011
+}]

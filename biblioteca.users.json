@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "641e7e5f14c0b9d8e947fa10"
+  },
+  "name": "Juan Pérez",
+  "email": "juan.perez@example.com",
+  "borrowed_books": []
+},
+{
+  "_id": {
+    "$oid": "641e7e5f14c0b9d8e947fa11"
+  },
+  "name": "María López",
+  "email": "maria.lopez@example.com",
+  "borrowed_books": []
+},
+{
+  "_id": {
+    "$oid": "641e7e5f14c0b9d8e947fa12"
+  },
+  "name": "Carlos García",
+  "email": "carlos.garcia@example.com",
+  "borrowed_books": []
+}]

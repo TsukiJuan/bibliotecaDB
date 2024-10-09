@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "6705f4c0fc2ca01b36ec9c20"
+  },
+  "user_id": {
+    "$oid": "641e7e5f14c0b9d8e947fa10"
+  },
+  "book_id": {
+    "$oid": "641e7d9d14c0b9d8e947fa0b"
+  },
+  "borrow_date": {
+    "$date": "2024-10-09T03:13:04.307Z"
+  },
+  "return_date": {
+    "$date": "2024-10-09T03:16:26.666Z"
+  }
+}]
