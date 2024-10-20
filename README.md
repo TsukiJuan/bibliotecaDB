@@ -1,5 +1,4 @@
 # bibliotecaDB
-Hola profe, en el readme te dejo las consultas por que no estoy seguro si al exportar las colecciones solo son los atributos o todo 
 att: Juan David Calderon Jaramillo
 
  // Eliminar un libro
